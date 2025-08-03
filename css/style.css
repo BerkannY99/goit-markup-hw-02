@@ -1,0 +1,36 @@
+p{
+    font-family: "Roboto",sans-serif;
+}
+
+.logo{
+    color: #2E2F42;
+    font-size: 18px;
+    font-weight: 700;
+    text-decoration: none;
+    font-family: "Raleway",sans-serif;
+}
+.logo span{
+    color: #4D5AE5;
+}
+.menu{
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 16px;
+    background-color: #FFFFFF;
+}
+body{
+    font-family: "Roboto",sans-serif;
+}
+.buton{
+    cursor: pointer;
+    background-color:  #4D5AE5;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: "Roboto",sans-serif;
+}
+.buton :hover{
+     background-color: #404BBF;
+}
+.slider{
+    background-color: #2E2F42;
+}
