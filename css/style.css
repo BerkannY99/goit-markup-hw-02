@@ -21,16 +21,46 @@ p{
 body{
     font-family: "Roboto",sans-serif;
 }
+.buton :hover{
+     background-color: #404BBF;
+}
 .buton{
     cursor: pointer;
     background-color:  #4D5AE5;
     font-size: 16px;
     font-weight: 500;
     font-family: "Roboto",sans-serif;
+    text-decoration: none;
+    top: 428px;
+    left: 636px ;
 }
-.buton :hover{
-     background-color: #404BBF;
-}
+
 .slider{
     background-color: #2E2F42;
+     width: 1440px;
+    height: 600px;
+    top: 72px ;
+    text-align: center;
+    font-weight: 496px;
+}
+
+footer{
+    background-color: #2E2F42;
+    width: 1440px;
+    height: 312px;
+    top: 2988px ;
+}
+.logofooter{
+    top: 3088px;
+     color: #2E2F42;
+    font-size: 18px;
+    font-weight: 700;
+    text-decoration: none;
+    font-family: "Raleway",sans-serif;
+}
+.logofooter span{
+    color: #4D5AE5;
+}
+.resim{
+    background-color: #F4F4FD;
 }
