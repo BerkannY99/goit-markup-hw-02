@@ -1,66 +1,89 @@
-p{
-    font-family: "Roboto",sans-serif;
+p {
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
 }
 
-.logo{
-    color: #2E2F42;
-    font-size: 18px;
-    font-weight: 700;
-    text-decoration: none;
-    font-family: "Raleway",sans-serif;
+.logo {
+  color: #2e2f42;
+  font-size: 18px;
+  font-weight: 700;
+  text-decoration: none;
+  font-family: "Raleway", sans-serif;
 }
-.logo span{
-    color: #4D5AE5;
+.logo span {
+  color: #4d5ae5;
 }
-.menu{
-    text-decoration: none;
-    font-weight: 500;
-    font-size: 16px;
-    background-color: #FFFFFF;
+.menu {
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 16px;
+  background-color: #ffffff;
 }
-body{
-    font-family: "Roboto",sans-serif;
+.menu-link {
+  text-decoration: none;
+  color: #2e2f42;
 }
-.buton :hover{
-     background-color: #404BBF;
+.menu-link:hover {
+  color: #404bbf;
 }
-.buton{
-    cursor: pointer;
-    background-color:  #4D5AE5;
-    font-size: 16px;
-    font-weight: 500;
-    font-family: "Roboto",sans-serif;
-    text-decoration: none;
-    top: 428px;
-    left: 636px ;
+.address-link {
+  text-decoration: none;
+  color: #2e2f42;
 }
 
-.slider{
-    background-color: #2E2F42;
-     width: 1440px;
-    height: 600px;
-    top: 72px ;
-    text-align: center;
-    font-weight: 496px;
+.address-link:hover {
+  color: #404bbf;
+}
+.menu-link:active {
+  text-decoration: underline;
+}
+body {
+  font-family: "Roboto", sans-serif;
+}
+.buton:hover {
+  background-color: #404bbf;
+}
+.buton {
+  cursor: pointer;
+  background-color: #4d5ae5;
+  font-size: 16px;
+  color: #ffffff;
+  font-weight: 500;
+  font-family: "Roboto", sans-serif;
+  text-decoration: none;
+  top: 428px;
+  left: 636px;
 }
 
-footer{
-    background-color: #2E2F42;
-    width: 1440px;
-    height: 312px;
-    top: 2988px ;
+.slider {
+  background-color: #2e2f42;
+  width: 1440px;
+  height: 600px;
+  top: 72px;
+  text-align: center;
+  font-weight: 496px;
 }
-.logofooter{
-    top: 3088px;
-     color: #FFFFFF;
-    font-size: 18px;
-    font-weight: 700;
-    text-decoration: none;
-    font-family: "Raleway",sans-serif;
+
+footer {
+  line-height: 1.4;
+  color: #e7e9fc;
+  background-color: #2e2f42;
+  width: 1440px;
+  height: 312px;
+  top: 2988px;
 }
-.logofooter span{
-    color: #4D5AE5;
+.logofooter {
+  top: 3088px;
+  color: #ffffff;
+  font-size: 18px;
+  font-weight: 700;
+  text-decoration: none;
+  font-family: "Raleway", sans-serif;
 }
-.resim{
-    background-color: #F4F4FD;
+.logofooter span {
+  color: #4d5ae5;
+}
+.resim {
+  background-color: #f4f4fd;
 }
