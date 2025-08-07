@@ -3,6 +3,16 @@ p {
   font-size: 16px;
   line-height: 1.5;
 }
+h1{
+  width: 496px;
+  font-family: "Roboto",sans-serif;
+  color: #FFFFFF;
+  font-style: bold;
+  letter-spacing: 2px;
+  line-height: 60px;
+  font-weight: 700;
+  
+}
 
 .logo {
   color: #2e2f42;
