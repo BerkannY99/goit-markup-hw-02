@@ -7,9 +7,9 @@ h1{
   width: 496px;
   font-family: "Roboto",sans-serif;
   color: #FFFFFF;
-  font-style: bold;
+  font-size: 56px;
   letter-spacing: 2px;
-  line-height: 60px;
+  line-height: 1.5;
   font-weight: 700;
   
 }
